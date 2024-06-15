@@ -31,16 +31,24 @@ This project was developed as part of a task in the "Software Engineering" modul
 ![push_changes](https://github.com/jessica-charzynski/PaceCalculator/assets/104297335/8667dcd7-2828-4d85-b46e-47be5d87770d)
 
 ### 4. Experiment with time travel ✅
-
 To do this, I undid the last change to the GUI.
 
 ##### Display a list of the previous commits: log
 ![log_method](https://github.com/jessica-charzynski/PaceCalculator/assets/104297335/a186c006-5d10-41ef-b390-68c427b45773)
-##### git revert ec4b55322db967f5f33217b0e930aedccd8da5e1 + git push origin main
+* git revert ec4b55322db967f5f33217b0e930aedccd8da5e1
+* git push origin main
 ##### Result:
 ![revert](https://github.com/jessica-charzynski/PaceCalculator/assets/104297335/0a154fae-0a1b-40f3-bf60-4972336292c4)
 
 ### 5. Create second branch, switch between them, and then merge these branches back together 
+* added the tutorial.md file locally 
+* git checkout -b second-branch
+* git add .
+* git commit -m "Added PaceCalculator project with a tutorial"
+* git push origin second-branch
+##### Result:
+![image](https://github.com/jessica-charzynski/PaceCalculator/assets/104297335/2744f25a-e222-41e8-a558-506ea621bed6)
+* Switching back to branch 'main': git checkout main
 
 ### 6. Create a pull request on GitHub referencing https://github.com/edlich/education
 
