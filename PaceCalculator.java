@@ -9,7 +9,7 @@ public class PaceCalculator extends JFrame implements ActionListener {
     public PaceCalculator() {
         // GUI initialization
         setTitle("Pace Calculator");
-        setSize(350, 200);
+        setSize(400, 250); // Increased window size from 350x200 to 400x250
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
         setLayout(null);
