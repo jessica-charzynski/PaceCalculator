@@ -49,9 +49,11 @@ To do this, I undid the last change to the GUI.
 ##### Result:
 ![image](https://github.com/jessica-charzynski/PaceCalculator/assets/104297335/2744f25a-e222-41e8-a558-506ea621bed6)
 * Switching back to branch 'main': git checkout main
+##### Merge branches:
+![image](https://github.com/jessica-charzynski/PaceCalculator/assets/104297335/72a4c872-f91c-4403-84ee-c4820cf24bed)
+* Delete second-branch
 
 ### 6. Create a pull request on GitHub referencing https://github.com/edlich/education
-
 
 
 
