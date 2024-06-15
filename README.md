@@ -57,7 +57,7 @@ To do this, I undid the last change to the GUI.
 
 ### 6. Create a pull request on GitHub referencing https://github.com/edlich/education ✅
 * Fork of the repository
-* git clone https://github.com/dein-benutzername/education.git
+* git clone https://github.com/jessica-charzynski/education.git
 * Add "Banksy.txt" (ASCII Art) to "Art-Folder" (locally)
 * git add Banksy.txt
 * git commit -m "Added Banksy.txt to Art-Folder"
