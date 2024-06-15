@@ -1,8 +1,10 @@
 # Pace Calculator
 
-Pace Calculator is a Java application that allows users to calculate their running pace based on the distance covered and the time taken. It features a simple graphical user interface (GUI) built with Swing.
+![image](https://github.com/jessica-charzynski/PaceCalculator/assets/104297335/370528ca-25f0-4f09-8bf8-3d9cc06779cf)
 
-This project was developed as part of a task in the "Software Engineering" module about version control with Git.
+Pace Calculator is a Java application that allows users to calculate their running pace based on the distance covered and the time taken. 
+
+It features a simple graphical user interface (GUI) built with Swing.
 
 ## Task: Version Control with Git
 
@@ -40,7 +42,7 @@ To do this, I undid the last change to the GUI.
 ##### Result:
 ![revert](https://github.com/jessica-charzynski/PaceCalculator/assets/104297335/0a154fae-0a1b-40f3-bf60-4972336292c4)
 
-### 5. Create second branch, switch between them, and then merge these branches back together 
+### 5. Create second branch, switch between them, and then merge these branches back together ✅
 * added the tutorial.md file locally 
 * git checkout -b second-branch
 * git add .
@@ -53,7 +55,17 @@ To do this, I undid the last change to the GUI.
 ![image](https://github.com/jessica-charzynski/PaceCalculator/assets/104297335/72a4c872-f91c-4403-84ee-c4820cf24bed)
 * Delete second-branch
 
-### 6. Create a pull request on GitHub referencing https://github.com/edlich/education
+### 6. Create a pull request on GitHub referencing https://github.com/edlich/education ✅
+* Fork of the repository
+* git clone https://github.com/dein-benutzername/education.git
+* Add "Banksy.txt" (ASCII Art) to "Art-Folder" (locally)
+* git add Banksy.txt
+* git commit -m "Added Banksy.txt to Art-Folder"
+* git push origin master
+##### Pull-Request:
+![image](https://github.com/jessica-charzynski/PaceCalculator/assets/104297335/07e10b9b-a4f6-40f0-8813-ecf57883a249)
+
+
 
 
 
