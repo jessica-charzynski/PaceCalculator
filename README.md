@@ -2,9 +2,7 @@
 
 ![image](https://github.com/jessica-charzynski/PaceCalculator/assets/104297335/370528ca-25f0-4f09-8bf8-3d9cc06779cf)
 
-Pace Calculator is a Java application that allows users to calculate their running pace based on the distance covered and the time taken. 
-
-It features a simple graphical user interface (GUI) built with Swing.
+Pace Calculator is a Java application that allows users to calculate their running pace based on the distance covered and the time taken. It features a simple graphical user interface (GUI) built with Swing.
 
 ## Task: Version Control with Git
 
@@ -42,7 +40,7 @@ To do this, I undid the last change to the GUI.
 ##### Result:
 ![revert](https://github.com/jessica-charzynski/PaceCalculator/assets/104297335/0a154fae-0a1b-40f3-bf60-4972336292c4)
 
-### 5. Create second branch, switch between them, and then merge these branches back together ✅
+### 5. Create second branch, switch between them, and merge them together ✅
 * added the tutorial.md file locally 
 * git checkout -b second-branch
 * git add .
