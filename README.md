@@ -12,7 +12,7 @@ It features a simple graphical user interface (GUI) built with Swing.
 
 ### 2. Added the project to the repository (via file upload) ✅
 
-### 3. Applied all relevant methods mentioned in the documentation demonstrably (via Git Bash) ✅
+### 3. Applied all relevant methods demonstrably (via Git Bash) ✅
 
 ##### Removing Files: rm + commit + push
 ![rm_method](https://github.com/jessica-charzynski/PaceCalculator/assets/104297335/7a1343ce-81ef-4aa0-a9b8-e39e56c50d57)
